@@ -19,7 +19,7 @@ ODS excel font size and justification proc report titles formatting.  Keywords: 
     I also like to use outputwidth=100% and percents for individual column widths.
     That way you can switch between landscape and portrait.
 
-    utl_xlsLan100  ** see end of this post
+    utl_xlsLan100  ** see file utl_xlsLan100.sas 
     utl_rtfLan100
     utl_pdfLan100
     utl_pptLan100
